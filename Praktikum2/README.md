@@ -1,5 +1,7 @@
 Nama    : Rafaisya Dwi Adrianto
+
 Tugas   : Praktikum Minggu Ke 2
+
 
 Ini adalaha hasil dari run codenya :
 
