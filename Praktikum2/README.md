@@ -2,8 +2,7 @@ Nama    : Rafaisya Dwi Adrianto
 
 Tugas   : Praktikum Minggu Ke 2
 
-
-Ini adalaha hasil dari run codenya :
+Ini adalah hasil dari run codenya :
 
 ----------------------------------------------------------------------------------------------------
 (Data Sebelum Proses Pertukaran)
