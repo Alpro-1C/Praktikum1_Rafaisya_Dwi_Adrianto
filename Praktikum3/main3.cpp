@@ -27,7 +27,7 @@ loopFunction();
 
     cout << "\nPanjang Sisi Persegi Ini Adalah    : " << s << "\n";
 
-    luas= 4*s;//rumus menghitung luas persegi
+    luas= s*s;//rumus menghitung luas persegi
 
     loopFunction();
     cout << "\nLuas Dari Persegi Ini adalah : " << luas << endl;
