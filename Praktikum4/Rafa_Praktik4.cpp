@@ -159,5 +159,5 @@ int main()
         default:
             break;
         }
-    } while (validasi);//untuk me looping code setelah progra selesai dijalankan, kecuali case 4 atau program pilihan 4
+    } while (validasi);//untuk me looping program pilihan menu setelah program selesai dijalankan, kecuali case 4 atau program pilihan 4 karena case 4 disini digunakan untuk exit dari program menu
 }
